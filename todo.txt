@@ -1,0 +1,1 @@
+update la path dans le xml pour pointer dans le bon dossier et ausi les volumes et bouger le docker file et la CI/CD BUILDDEPLOY SCAN TEST
